@@ -1,0 +1,19 @@
+{
+  "name": "Wild7",
+  "short_name": "Wild7",
+  "theme_color": "",
+  "background_color": "#161721",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773753727-apple-icon-57x57.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

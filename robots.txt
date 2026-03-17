@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://wild7-online-au.com/
+Sitemap: https://wild7-online-au.com/sitemap.xml

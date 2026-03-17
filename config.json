@@ -1,0 +1,206 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#161721",
+            "lang-select-color": "#222829",
+            "bg-light": "#161721",
+            "welcome-bonus-bg": "#161721",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#393d57",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#07d6e1",
+            "text-head": "#161721",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#07d6e1",
+            "yellow": "#494d6d",
+            "yellow-button": "#07d6e1",
+            "button-text": "#ffffff",
+            "main-button-text": "#161721",
+            "border-color": "#efefdc",
+            "casino-cards": "#161721",
+            "bonus-border-head": "#161721",
+            "bonus-border": "#ffffff",
+            "providers-back": "#161721",
+            "faq-label": "#161721",
+            "bg-footer": "#161721",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4598"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4600",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Wild7 Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4601",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Wild7"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Wild7",
+                    "title": "Wild7 — Best Australian Online Casino | $1000 Bonus",
+                    "description": "Play at Wild7 Australia with 3000+ top pokies, live dealers & instant AUD payouts via PayID. Claim your $1000 welcome bonus today and start winning!\n",
+                    "canonical": "wild7-online-au.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4602",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "wild7-online-au.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4603"
+                },
+                "hero": {
+                    "title": "Australia's Most Trusted Online Casino",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4604",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4605",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a secure online casino in Australia? We operate under Curaçao licensing with certified RNG, offer instant AUD payouts via PayID, and provide 24\/7 support. Here's what makes Wild7 the preferred choice for Aussie players:\n",
+                    "items": [
+                        "Licensed by Curaçao eGaming with eCOGRA certified fair play",
+                        "3000+ real money pokies from Pragmatic Play and Evolution",
+                        "Instant AUD withdrawals via PayID, Neosurf, and Crypto",
+                        "24\/7 Aussie customer support via live chat and email",
+                        "SSL 256-bit encryption protecting your daily transactions"
+                    ],
+                    "advantagesAfterText": "Join over 50,000 satisfied Australian players enjoying premium gaming on our secure platform. Our dedicated support team is always ready to assist you in English, 24\/7.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Wild7 App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4606",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Wild7 App",
+                    "mobileGooglePlayImageTitle": "Wild7 App",
+                    "mobileIosImageTitle": "Wild7 App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Wild7 Casino Australia",
+                        "description1": "Focused on the Australian market, we've served Aussie players with premium gaming. Operating under strict regulations, we offer over 3000 top pokies and live games specifically tailored for Australian preferences.\n",
+                        "items": [
+                            "Expanded our real money pokie collection to 3000+ titles",
+                            "Integrated PayID for instant and secure Australian payouts",
+                            "Partnered with Evolution Gaming for live dealer tables"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license #8048\/JAZ. Our secure platform utilizes advanced SSL 256-bit encryption. Every game is independently tested by iTech Labs, ensuring random outcomes and completely fair play.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4607",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously expand our game selection for Aussies. With strict responsible gaming tools and dedicated local support, we ensure a safe environment. Join us today and experience top-tier gambling in Australia!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Pokies & Games Guide for AU",
+                        "description": "<h2>Premium Online Casino Entertainment in Australia<\/h2>\n<p>Welcome to our comprehensive gaming platform, specifically designed to meet the high expectations of Australian players. Whether you are spinning the reels from Sydney, playing strategic card games in Melbourne, or enjoying live dealer action in Brisbane, our platform delivers an unparalleled gambling experience. We pride ourselves on offering a massive portfolio of over 3000 certified games, ensuring that every Australian punter finds their perfect match. Our platform operates under a strict Curaçao eGaming license (#8048\/JAZ), guaranteeing fair play, transparent payouts, and robust security through advanced SSL 256-bit encryption protocols. We constantly update our gaming hub to provide you with the most thrilling real money entertainment available in the southern hemisphere.<\/p>\n\n<h3>Our Massive Online Pokies Collection<\/h3>\n<p>We understand that pokies are the absolute favorite pastime for Australian casino enthusiasts. Therefore, we have curated an extraordinary collection of over 2500 online pokies from the world's most respected software providers. Our selection ranges from traditional fruit machines to modern, visually stunning video slots with complex mechanics and immersive storylines. Each title on our betting site is fully certified by independent testing agencies like iTech Labs, ensuring that the Return to Player (RTP) percentages are completely accurate and the random number generators (RNG) provide fair, unpredictable results every single spin.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic 3-Reel Pokies:<\/strong> Perfect for purists who appreciate straightforward gameplay. These games offer high RTP rates and nostalgic symbols like fruits, bells, and lucky sevens, delivering fast-paced action without complicated bonus rounds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Advanced Video Slots:<\/strong> Featuring 5 to 7 reels, these games come packed with exciting features such as expanding wilds, cascading symbols, scatter payouts, and interactive free spin bonus rounds that significantly boost your winning potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways™ Mechanics:<\/strong> Licensed titles utilizing the revolutionary Megaways system, offering up to 117,649 ways to win on a single spin. The dynamic reel structure guarantees that no two spins are ever exactly alike, maintaining maximum excitement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Features:<\/strong> For players who prefer to skip the base game grind, we offer numerous titles where you can instantly purchase entry into the highly lucrative free spins rounds using your AUD balance.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High Volatility Games:<\/strong> Designed for thrill-seekers, these pokies might pay out less frequently, but when they do hit, the multipliers can reach astonishing heights, sometimes exceeding 50,000x your initial wager.<\/li>\n<\/ul>\n\n<h3>Progressive Jackpot Networks<\/h3>\n<p>For players dreaming of life-changing wins, our casino portal hosts an extensive array of progressive jackpot pokies. Unlike standard fixed jackpots, these games are linked across a massive global network. A small percentage of every real money bet placed contributes to a central prize pool that grows continuously until one lucky player triggers the grand prize. We feature highly sought-after titles with transparent payout histories, giving our Australian users the chance to turn a modest spin into a monumental AUD payout. We proudly display current jackpot totals in real-time, allowing you to choose the games with the highest potential returns.<\/p>\n\n<h3>Classic Table Games and Strategic Play<\/h3>\n<p>Beyond our spectacular pokie collection, we offer a sophisticated suite of classic casino table games. These digital versions of casino staples utilize certified RNG software to replicate the precise odds you would find on a physical casino floor in Perth or Adelaide. Our platform caters to both casual players making small wagers and high rollers looking to implement complex betting strategies. You will find multiple variations of each game, allowing you to choose the exact ruleset that suits your personal playing style and maximizes your mathematical edge.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Variations:<\/strong> We host European Roulette (featuring a highly favorable 97.3% RTP due to the single zero), French Roulette with La Partage rules, and fast-paced American Roulette options for traditionalists.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Excellence:<\/strong> Test your card-counting skills with Classic Blackjack, Multi-Hand Blackjack, and Double Exposure. Our digital tables offer exceptionally high RTPs, often exceeding 99.5% when utilizing perfect basic strategy.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat Options:<\/strong> A favorite among high rollers, we provide Punto Banco, Speed Baccarat, and No Commission Baccarat. The straightforward rules and low house edge make it a premium choice for serious gamblers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker:<\/strong> Combining the luck of slots with the skill of poker, titles like Jacks or Better, Deuces Wild, and Aces and Faces offer some of the best mathematical returns in the entire casino industry.<\/li>\n<\/ul>\n\n<h3>What are the betting limits for table games?<\/h3>\n<p>Our platform accommodates every budget, from conservative $1 bets to $10,000 high-roller stakes.<\/p>\n<p>We believe that premium entertainment should be accessible to everyone. Therefore, we have structured our table limits to welcome casual players while simultaneously providing the high-stakes action demanded by VIP gamblers. The flexible betting infrastructure ensures you can comfortably manage your bankroll while implementing progressive betting systems like the Martingale or Fibonacci.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0dd1d2;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #131317;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #19191e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #131317;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$100<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Immersive Live Dealer Experiences<\/h3>\n<p>For Australians seeking the authentic atmosphere of a land-based casino without leaving their homes, our live dealer section is the ultimate destination. Broadcast in stunning high-definition from state-of-the-art studios worldwide, these games feature professional, English-speaking croupiers who interact with players in real-time. We have partnered with industry giants like Evolution Gaming and Pragmatic Play Live to ensure flawless streaming quality, intuitive user interfaces, and absolute transparency in every card dealt and wheel spun.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Lightning Games:<\/strong> Experience classic table games supercharged with RNG multipliers. Titles like Lightning Roulette and Lightning Baccarat can apply up to 500x multipliers to straight-up bets, revolutionizing traditional payouts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interactive Game Shows:<\/strong> Blending TV-style entertainment with gambling mechanics, games such as Crazy Time, Monopoly Live, and Sweet Bonanza Candyland offer colorful, highly social experiences with massive winning potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Private Tables:<\/strong> Exclusive, high-limit Salon Privé rooms where high rollers can enjoy one-on-one gameplay with top-tier dealers, higher maximum bets, and personalized, uninterrupted service.<\/li>\n<\/ul>\n\n<h3>Elite Software Providers<\/h3>\n<p>The quality of any gaming hub is directly tied to its software partnerships. We exclusively collaborate with tier-one developers who hold licenses in highly regulated jurisdictions. Providers like BGaming, Nolimit City, and Pragmatic Play ensure that our library features cutting-edge graphics, innovative bonus mechanics, and flawless cross-platform performance. By continually integrating new studios, we guarantee that our Australian community always has access to the latest global releases simultaneously with the rest of the world.<\/p>\n\n<h3>Flawless Mobile Gaming Optimization<\/h3>\n<p>We recognize that modern Australians demand gaming on the go. Our entire platform is built utilizing mobile-first HTML5 technology, ensuring 100% compatibility with all iOS and Android smartphones and tablets. There is no need to download cumbersome applications; simply access our site through your mobile browser for instant play. The responsive design automatically adapts to your screen size, optimizing touch controls, minimizing load times, and maintaining the highest standards of visual fidelity and security, whether you are connected via Wi-Fi or local 5G networks.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Secure Banking & Bonuses for Aussies",
+                        "description": "<h2>Secure Financial Operations and Exclusive Rewards in Australia<\/h2>\n<p>When engaging in real money gaming, the security, speed, and reliability of financial transactions are absolutely paramount. We have meticulously engineered our banking infrastructure to cater specifically to the needs of the Australian market. By offering localized AUD payment gateways and embracing the global cryptocurrency revolution, we provide a seamless cashier experience. Furthermore, we operate under strict regulatory compliance, employing PCI-DSS compliant payment processing and robust SSL 256-bit encryption. This guarantees that your sensitive personal data and hard-earned winnings remain completely protected against unauthorized access at all times.<\/p>\n\n<h3>Instant Deposits for Uninterrupted Gameplay<\/h3>\n<p>We understand that when you are ready to play, you do not want to wait for funds to clear. Our platform offers a diverse range of instant deposit methods tailored for Aussies. You can fund your account directly using your local bank through PayID, ensuring immediate, fee-free transfers in Australian Dollars. For those who prefer prepaid options, we fully support Neosurf vouchers, which allow for secure, anonymous deposits without linking personal bank accounts. Additionally, traditional credit and debit cards, including Visa and Mastercard, are processed instantly through our highly secure encrypted gateways.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayID & BPAY Integration:<\/strong> Transfer funds instantly and securely directly from your Australian bank account using just a mobile number or email address, avoiding complex routing numbers and international fees.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Neosurf Prepaid Cards:<\/strong> Purchase vouchers at thousands of retail locations across Australia and use the 10-digit pin to fund your casino balance instantly, maintaining total privacy over your financial habits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Utilize the world's most trusted credit and debit networks for immediate account funding. We absorb all processing fees so 100% of your deposit goes straight into your gaming bankroll.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency Options:<\/strong> Deposit using Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), or Tether (USDT). Crypto deposits offer unparalleled speed, massive limits, and blockchain-level security for modern punters.<\/li>\n<\/ul>\n\n<h3>What are the withdrawal limits for crypto and fiat?<\/h3>\n<p>We offer flexible withdrawal limits starting from $20 up to $10,000 per week.<\/p>\n<p>Our financial team prioritizes swift and hassle-free payouts. We have structured our withdrawal limits to accommodate both casual players and high rollers. By completing your KYC verification early, you ensure that your payout requests are processed seamlessly, allowing you to enjoy your winnings without unnecessary administrative delays.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0dd1d2;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #131317;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayID<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #19191e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #131317;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Crypto (BTC)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$10,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Lightning-Fast Withdrawal Procedures<\/h3>\n<p>Nothing builds trust faster than prompt payouts. We have streamlined our withdrawal processes to ensure that Australian players receive their winnings in record time. While traditional bank transfers to institutions like CommBank or Westpac typically take 1 to 3 business days, our dedicated financial team processes e-wallet and cryptocurrency withdrawals almost instantly. Once your account is fully verified through our automated KYC system, crypto payouts hit your personal wallet within 15 minutes, making us one of the fastest paying platforms operating in the Australian market.<\/p>\n\n<h3>Lucrative Welcome Bonuses and Promotions<\/h3>\n<p>We believe in warmly welcoming new players to our community with highly competitive bonus packages. Upon registering and making your first AUD deposit, you become eligible for our generous welcome bonus, which significantly multiplies your starting bankroll. We structure our bonuses with absolute transparency, clearly outlining all wagering requirements, eligible games, and expiration dates. Our standard 35x wagering requirement is highly competitive within the industry, giving you a genuine mathematical chance to convert bonus funds into withdrawable real money.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit Match:<\/strong> We match your initial AUD deposit by a high percentage, instantly doubling or tripling your playing power and allowing you to explore our massive library of pokies risk-free.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Free Spins Packages:<\/strong> Alongside matched funds, new players receive large batches of free spins on our most popular Pragmatic Play and BGaming titles, delivered in daily increments to extend the excitement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Offers:<\/strong> The rewards do not stop after the welcome package. Existing players can claim lucrative reload bonuses every weekend, ensuring your account is always topped up for premium entertainment.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Cashback Program:<\/strong> We value loyalty. Our multi-tiered VIP program automatically enrolls every player, offering weekly cashback on net losses, personal account managers, and exclusive high-roller tournaments.<\/li>\n<\/ul>\n\n<h3>The Advantages of Crypto Gambling in Australia<\/h3>\n<p>Cryptocurrency is rapidly becoming the preferred banking method for savvy Australian punters, and we fully embrace this technology. Utilizing Bitcoin, Ethereum, or stablecoins like USDT provides unmatched benefits. Firstly, blockchain transactions are decentralized, meaning no bank can block or delay your legitimate casino deposits. Secondly, crypto offers incredible speed, with deposits confirming in seconds and withdrawals processing near-instantly. Finally, crypto gambling provides a layer of privacy that traditional banking simply cannot match, keeping your entertainment budget completely separate from your daily financial records.<\/p>\n\n<h3>Dedicated Australian Customer Support<\/h3>\n<p>We pride ourselves on delivering world-class customer service tailored to the Australian time zone. Whether you reside in Perth or Sydney, our professional, English-speaking support team is available 24\/7\/365. You can reach out instantly via our integrated live chat feature for immediate assistance with deposits, bonus activations, or game rules. For more complex inquiries regarding KYC verification or account settings, our dedicated email support provides comprehensive, rapid resolutions, ensuring your gaming experience remains smooth, secure, and highly enjoyable.<\/p>\n\n<h3>Commitment to Responsible Gambling<\/h3>\n<p>Player safety and well-being form the foundation of our operational philosophy. We are strictly committed to promoting responsible gambling practices across Australia. Our platform includes a comprehensive suite of player protection tools. You can easily set daily, weekly, or monthly deposit limits directly from your dashboard. We also provide session time reminders, loss limits, and a robust self-exclusion mechanism. We partner actively with independent organizations dedicated to gambling awareness, ensuring that our platform remains a source of safe, controlled, and enjoyable entertainment.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at Wild7 Australia?",
+                            "answer": "Create your account, complete verification, and deposit a minimum of $20 AUD via PayID, cards, or crypto. Your bonus and free spins are credited automatically within minutes. The standard wagering requirement is 35x. Our 24\/7 Aussie support team is available via live chat for any assistance.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept secure AUD deposits via PayID, Visa, Mastercard, and Neosurf vouchers. Additionally, we support major cryptocurrencies like Bitcoin, Ethereum, and USDT. All deposits are instant and completely fee-free, allowing you to jump straight into our premium real money pokies.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to process to my Australian bank?",
+                            "answer": "Crypto withdrawals process instantly and usually arrive within 15 minutes. Payouts via PayID or standard bank transfers to Australian banks typically take 1 to 3 business days after you complete the straightforward KYC verification process. We ensure rapid, transparent financial operations.\n"
+                        },
+                        {
+                            "title": "Is it safe and legal to play real money games from Australia?",
+                            "answer": "Yes, playing at our casino is entirely safe. We operate under a recognized Curaçao eGaming license and utilize advanced SSL 256-bit encryption. All our games are independently audited by iTech Labs for absolute fairness, guaranteeing transparent RNG results and secure daily transactions.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer casino games on my mobile device?",
+                            "answer": "Absolutely. Our entire live dealer portfolio, including blackjack and roulette from Evolution Gaming, is fully optimized for mobile devices. You can enjoy HD streaming without lag on both iOS and Android smartphones anywhere in Australia, maintaining full interactive chat functionality.\n"
+                        },
+                        {
+                            "title": "What exact documents are required for account verification?",
+                            "answer": "To verify your account, simply upload a clear copy of a government-issued ID (like an Australian driver's license or passport) and a recent utility bill or bank statement as proof of address. Verification is processed by our security team typically within 24 hours for fast withdrawals.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
